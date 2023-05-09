@@ -3,7 +3,7 @@
 # Alumno : Camilo Andrés Adones Soto
 # Métodos utilizados en la API con POSTGRESS 
 # Para iniciar el proyocto en el terminal escribir : npm i express pg bcrypt
-# https://github.com/tanatosis/SPRINT-Proyecto-Personal-Portafolio-MEMOR-APP-ARDUINO
+# API en apimemorapp-production.up.railway.app
 
 - // `Linea 1` : Importando el módulo express
 - // `Linea 2` : Importando el módulo pg (PostgreSQL)
